@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699141043917",
+    "project_id": "project-42a02",
+    "storage_bucket": "project-42a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699141043917:android:5b78c77127a1ea01015b84",
+        "android_client_info": {
+          "package_name": "com.domainenrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699141043917-gt69jp2j6avpu8c9krkg7pb7o7qj72bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKxVPEpbeh0lqNzqEBeJWjlnd5dc8WaCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699141043917-gt69jp2j6avpu8c9krkg7pb7o7qj72bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
